@@ -455,13 +455,3 @@ In the event of an error, `GlobalExceptionHandler` intercepts the exception and 
 ```
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — feel free to use and modify for your personal portfolio or commercial applications.
-
----
-
-<div align="center">
-  <sub>Built with ❤️ for modern, scalable e-commerce engineering.</sub>
-</div>
