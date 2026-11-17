@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" width="100%" height="100%">
+  <defs>
+    <style>
+      .brand-text {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        font-weight: 800;
+        font-size: 22px;
+        fill: #000000;
+        letter-spacing: -0.5px;
+      }
+      .brand-bold {
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+
+  <!-- TeknoPazar Logo Grubu -->
+  <g transform="translate(5, 5)">
+    <!-- İkon: Teknoloji & E-Ticaret / Alışveriş Sepeti + Çip Devresi -->
+    <g fill="#000000">
+      <!-- Sepet Gövdesi -->
+      <path d="M0 2C0 0.89543 0.89543 0 2 0H6C7.0302 0 7.88289 0.78183 7.9892 1.8083L8.63 8H27C28.2618 8 29.2144 9.1554 28.966 10.397L27.166 19.397C26.9663 20.3958 26.0898 21 25.07 21H10C8.89543 21 8 20.1046 8 19V5H3C2.44772 5 2 4.55228 2 4C2 3.44772 2.44772 3 3 3H6.8L6.4 1H2C0.89543 1 0 1.89543 0 3V2Z"/>
+      <!-- Sepet Tekerlekleri -->
+      <circle cx="11" cy="26" r="3"/>
+      <circle cx="23" cy="26" r="3"/>
+      <!-- Teknoloji / Çip Bağlantı Noktaları -->
+      <path d="M12 11H20M12 15H17" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <!-- Tipografi: TeknoPazar -->
+    <text x="38" y="22" class="brand-text">
+      Tekno<tspan class="brand-bold">Pazar</tspan>
+    </text>
+  </g>
+</svg>
